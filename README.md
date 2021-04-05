@@ -12,5 +12,5 @@ I really like the setup [Tyler Hall](https://tyler.io) created and documented fo
 - `File Tags:` searching enabled in [Alfred](https://www.alfredapp.com) File Search to remove friction from indexed file searching (optional)
 - [FastScripts](https://redsweater.com/fastscripts/) for easy access to the scripts (optional)
 
-Note:
+### Note:
 Setup for TextExpander is fairly easy; just copy the contents of the `te_read_counter` and `te_write_counter` scripts to new Applescript expansions in TextExpander with the abbreviations `.cat` and `.ncat` respectively. 
